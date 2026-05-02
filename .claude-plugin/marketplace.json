@@ -1,0 +1,17 @@
+{
+  "name": "zoro",
+  "owner": {
+    "name": "prashantajani",
+    "url": "https://github.com/prashantajani"
+  },
+  "plugins": [
+    {
+      "name": "zoro",
+      "source": ".",
+      "version": "0.2.0",
+      "description": "Personal orchestration agent for day-to-day software development. Wake with 'zoro, ...' in any project.",
+      "category": "productivity",
+      "keywords": ["orchestrator", "agent", "personal-assistant", "development"]
+    }
+  ]
+}

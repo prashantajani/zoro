@@ -1,0 +1,13 @@
+{
+  "name": "zoro",
+  "version": "0.2.0",
+  "description": "Zoro - personal orchestration agent. Wake with 'zoro, ...' in any project.",
+  "author": {
+    "name": "prashantajani",
+    "url": "https://github.com/prashantajani"
+  },
+  "homepage": "https://github.com/prashantajani/zoro",
+  "repository": "https://github.com/prashantajani/zoro",
+  "license": "MIT",
+  "keywords": ["orchestrator", "agent", "personal-assistant", "development"]
+}
