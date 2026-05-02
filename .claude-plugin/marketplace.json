@@ -7,10 +7,7 @@
   "plugins": [
     {
       "name": "zoro",
-      "source": {
-        "source": "git",
-        "url": "https://github.com/prashantajani/zoro.git"
-      },
+      "source": "./",
       "version": "0.2.0",
       "description": "Personal orchestration agent for day-to-day software development. Wake with 'zoro, ...' in any project.",
       "category": "productivity",
