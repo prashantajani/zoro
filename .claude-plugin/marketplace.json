@@ -8,8 +8,8 @@
     {
       "name": "zoro",
       "source": {
-        "source": "github",
-        "repo": "prashantajani/zoro"
+        "source": "git",
+        "url": "https://github.com/prashantajani/zoro.git"
       },
       "version": "0.2.0",
       "description": "Personal orchestration agent for day-to-day software development. Wake with 'zoro, ...' in any project.",
